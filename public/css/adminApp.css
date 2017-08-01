@@ -1,0 +1,28 @@
+g
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+#admin-page {
+  padding-top: 0px; }
+
+#nested-comment {
+  margin-top: 30px; }
+
+.comment-reply {
+  display: none; }
+
+.comment-reply-container {
+  margin-top: 20px; }
+
+/*# sourceMappingURL=app.css.map */
+
+.welcomeName{
+	font-weight:bold;
+	color:rgb(153, 102, 0);
+}

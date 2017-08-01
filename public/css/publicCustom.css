@@ -1,0 +1,23 @@
+ul.category-list-style li a i{
+	top: 6%;
+	opacity:1;
+	width: 80px;
+}
+.content-section{
+	margin-top: 100px;
+}
+
+.master-container{
+	margin-top: 157px;
+}
+.master-container-postAd{
+	margin-top: 120px;
+}
+.bigLetter{
+  font-size:12pt;
+  font-weight:bold;
+}
+#bottomLogo{
+	width:160px;
+	margin-bottom:5px;
+}

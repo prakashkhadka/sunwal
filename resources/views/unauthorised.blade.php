@@ -1,0 +1,1 @@
+@extends('layouts.masterLayout.home')@section('content')<h1>Un authrosed</h1>@stop
